@@ -8,7 +8,6 @@ class Person
     puts "Hello World!"
   end 
 end
-
 person.talk 
 
 class Person
