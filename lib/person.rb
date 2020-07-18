@@ -8,3 +8,4 @@ class Person
    puts "Hello World!"
  end
 end
+aida.talk 
